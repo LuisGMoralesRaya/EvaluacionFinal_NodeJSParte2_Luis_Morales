@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "author": "InfZer0",
+  "author": "LuisGuillermoMoralesRaya",
   "license": "ISC",
   "dependencies": {
     "async": "latest",
