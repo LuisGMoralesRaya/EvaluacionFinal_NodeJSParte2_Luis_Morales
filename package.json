@@ -1,0 +1,25 @@
+{
+  "name": "TeamApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "InfZer0",
+  "license": "ISC",
+  "dependencies": {
+    "async": "latest",
+    "body-parser": "latest",
+    "connect-multiparty": "latest",
+    "connect-redis": "latest",
+    "cookie-parser": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "lodash": "latest",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport-twitter": "latest",
+    "socket.io": "latest",
+    "swig": "latest"
+  }
+}
